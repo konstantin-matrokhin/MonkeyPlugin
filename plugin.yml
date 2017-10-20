@@ -1,0 +1,8 @@
+name: MonkeyPlugin
+version: 0.1
+author: kvlt
+api: 1.0.0
+main: MonkeyPlugin\MonkeyPlugin
+commands:
+  setdropper:
+    description: 'sets dropper in you looking at block'
